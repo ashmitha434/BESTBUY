@@ -26,7 +26,7 @@ This project focuses on automating the testing of the Best Buy web application u
 Follow these steps to clone the repository and execute the tests:
 
 ```bash
-git clone https://github.com/ashmitha434/BESTBUY
+git clone https://github.com/ashmitha434/BESTBUY.git cd project
 ```
 
 ## Contribution Guidelines
